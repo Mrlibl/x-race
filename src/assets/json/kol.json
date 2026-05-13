@@ -1,0 +1,70 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": [
+        {
+            "id": 1,
+            "user_id": "539477600",
+            "screen_name": "CryptoJoJobaby1111111111111111111111111111111111",
+            "name": "🌙Crypto JoJo | 星月 🐨 Morph",
+            "followers_count": 11791,
+            "friends_count": 1536,
+            "description": "#memecoin $BTC $ORDI $GOAT \n\n撸铁的软妹儿Jo🌙\n\nMorph 华语区大使 @MorphZH\n\n野生炒币 / MEME 赚过亏过笑过哭过 / \n随缘撸毛 / 找对Alpha才能实现 A9自由 /",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1896812080142950400/jjeDgY3p.jpg",
+            "kol_status": 2,
+            "token_address": "0x997a58129890bbda032231a52ed1ddc845fc18e1",
+            "token_twitter_username": "",
+            "token_twitter_id": "1613818885",
+            "cursor": null,
+            "create_time": 1747927331
+        },
+        {
+            "id": 2,
+            "user_id": "1550148972915728386",
+            "screen_name": "Water_Buffalo__",
+            "name": "Water Buffalo Meme(🌈Bull)",
+            "followers_count": 93239,
+            "friends_count": 142,
+            "description": "The first meme project to protect animals worldwide: Water Buffalo Project with Bull! CnOGTt",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1810998425007337472/W8IeYR0P.jpg",
+            "kol_status": 2,
+            "token_address": "0x997a58129890bbda032231a52ed1ddc845fc18e1",
+            "token_twitter_username": "",
+            "token_twitter_id": "1613818885",
+            "cursor": "1832824933911552786|1925573473854291790",
+            "create_time": 1747927729
+        },
+        {
+            "id": 3,
+            "user_id": "853365523144478720",
+            "screen_name": "Crypto_Austin1",
+            "name": "Crypto Austin",
+            "followers_count": 100256,
+            "friends_count": 29,
+            "description": "I bought a lot of $DOGE at 0.00003, now it is 10000X, let's go to the moon together\n\n$BTC $ETH $DOGE $SOL $XRP $SUI",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1922612627445825536/Eie2rP2E.jpg",
+            "kol_status": 2,
+            "token_address": "0x997a58129890bbda032231a52ed1ddc845fc18e1",
+            "token_twitter_username": "",
+            "token_twitter_id": "1613818885",
+            "cursor": "1832817022536385243|1925573473854291747",
+            "create_time": 1747927750
+        },
+        {
+            "id": 4,
+            "user_id": "996383309319032834",
+            "screen_name": "3__ij",
+            "name": "Crypto Professor Pr.🚀",
+            "followers_count": 35403,
+            "friends_count": 29832,
+            "description": "Crypto Promoter 🚀 & influencer ,Gems finder all type of Crypto currency 💵 Official #Binance #CMC #BNB  #Web3 #Gamefi Open DM 💌 For Business inquiries 🔥",
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1820451614672510976/TsswUttj.jpg",
+            "kol_status": 2,
+            "token_address": "0x997a58129890bbda032231a52ed1ddc845fc18e1",
+            "token_twitter_username": "",
+            "token_twitter_id": "1613818885",
+            "cursor": "1832817022536385243|1925573473854291747",
+            "create_time": 1747927750
+        }
+    ]
+}

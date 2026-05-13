@@ -1,0 +1,55 @@
+*,
+::before,
+::after {
+  box-sizing: inherit;
+  background-repeat: no-repeat;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+.custom-swal-popup {
+  border-radius: 1.50rem !important;
+  /* 调整圆角大小 */
+}
+
+/* 确认按钮样式 */
+.custom-confirm-btn {
+  min-width: 144px !important;
+  /* 增加按钮宽度 */
+  border-radius: 24px !important;
+  /* 按钮圆角 */
+  font-weight: bold !important;
+  /* 可选：加粗文字 */
+  padding: 10px 30px !important;
+  /* 调整内边距 */
+}
+
+
+.lf-custom-tooltip-content {
+  background-color: rgb(var(--v-theme-surface)) !important;
+  color: rgb(var(--v-theme-btn-text)) !important;
+  border-radius: 6px !important;
+  padding: 8px 12px !important;
+  border: 1px solid rgb(var(--v-theme-table-border)) !important;
+}
+.layout-page-content{
+  padding-top: 0rem !important;
+}
+
+.hide-scrollbar {
+    scrollbar-width: none !important;
+    /* Firefox */
+    -ms-overflow-style: none !important;
+    /* IE/Edge */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none !important;
+    /* Chrome/Safari/Edge */
+}
+
+.v-col-12{
+  padding: 8px !important;
+}

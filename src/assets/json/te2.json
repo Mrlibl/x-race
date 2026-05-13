@@ -1,0 +1,3344 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "TokenPric": 0.016233,
+        "holderlist": [
+            {
+                "timestamp": "2025-05-28T11:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T12:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T12:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T12:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T12:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T12:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T12:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T13:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T13:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T13:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T13:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T13:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T13:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T14:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T14:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T14:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T14:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T14:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T14:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T15:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T15:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T15:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T15:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T15:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T15:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T16:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T16:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T16:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T16:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T16:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T16:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T17:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T17:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T17:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T17:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T17:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T17:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T18:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T18:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T18:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T18:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T18:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T18:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T19:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T19:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T19:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T19:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T19:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T19:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T20:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T20:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T20:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T20:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T20:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T20:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T21:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T21:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T21:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T21:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T21:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T21:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T22:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T22:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T22:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T22:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T22:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T22:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T23:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T23:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T23:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T23:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T23:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-28T23:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T00:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T00:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T00:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T00:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T00:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T00:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T01:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T01:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T01:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T01:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T01:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T01:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T02:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T02:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T02:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T02:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T02:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T02:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T03:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T03:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T03:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T03:30:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T03:40:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T03:50:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T04:00:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T04:10:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            },
+            {
+                "timestamp": "2025-05-29T04:20:00.000Z",
+                "totalHolders": 0,
+                "netHolderChange": 0,
+                "holderPercentChange": 0,
+                "newHoldersByAcquisition": {
+                    "swap": 0,
+                    "transfer": 0,
+                    "airdrop": 0
+                },
+                "holdersIn": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                },
+                "holdersOut": {
+                    "whales": 0,
+                    "sharks": 0,
+                    "dolphins": 0,
+                    "fish": 0,
+                    "octopus": 0,
+                    "crabs": 0,
+                    "shrimps": 0
+                }
+            }
+        ],
+        "getSwaps": [
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "mFNyozHohNnPTjF4g5qAwb7nmFNfswonHYrLmRHnDne",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "34612909.387096000",
+                    "usdPrice": 5.163e-6,
+                    "usdAmount": 178.70645116557668,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "AMJHYqAhdccwc6JJGjRJZNHmeswG26L7HZDSvXXgURN4",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "33172100.930106000",
+                    "usdPrice": 5.509e-6,
+                    "usdAmount": 182.74510402395396,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "w2XXb93BQbX8F6cy5xeHnaoE15Mx2eQruGWc54s1QtE",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "27538469.035791000",
+                    "usdPrice": 5.824e-6,
+                    "usdAmount": 160.38404366444678,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "6NLmoLVdEbeqQEC7ZF1W8QSwSNEvB6yasWnRNsQ5g2LJ",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "16551495.745861000",
+                    "usdPrice": 6.026e-6,
+                    "usdAmount": 99.73931336455838,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "5YBx62vjnMQkWLhgayoDgtT6pkUdmWmPFdvQvs1KerRC",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "12239302.360615000",
+                    "usdPrice": 6.182e-6,
+                    "usdAmount": 75.66336719332193,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "Bm1MhY7sM6VNFcXEfQHkCk4QiRmyMH6kywFZg5jNKLrs",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "4323979.684797000",
+                    "usdPrice": 6.239e-6,
+                    "usdAmount": 26.97730925344848,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "6eKvt4VMQMeA9z2vNTtnEsqtyZU89G5qZoc1aKfxocKQ",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "9652558.259599000",
+                    "usdPrice": 6.369e-6,
+                    "usdAmount": 61.477143555386036,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:18.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "HXzb5d9AaWeWgATf9DjhYSAazPDRL9nD8VseYDMTFrVr",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "4100000.000000000",
+                    "usdPrice": 6.425e-6,
+                    "usdAmount": 26.3425,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:25.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "2BcE9grbmfnj7aF617Yof7mfuCTHGYoyt3hpM8kh315V",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "3247420.000000000",
+                    "usdPrice": 5.962e-6,
+                    "usdAmount": 19.36111804,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            },
+            {
+                "blockTimestamp": "2025-05-29T04:27:32.000Z",
+                "nickname": "",
+                "avatar": "",
+                "walletAddress": "7GBSUGhMUrVZXe2muJ8WFKXwP6SnpDWrmrtYcKETm2Vg",
+                "transactionType": "buy",
+                "bought": {
+                    "address": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                    "name": "ROKKI ",
+                    "symbol": "ROKKI ",
+                    "logo": "https:\/\/logo.moralis.io\/solana-mainnet_7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump_d039138ec3dfb7965fdf406fcfa2fb65.webp",
+                    "amount": "18582036.248552000",
+                    "usdPrice": 6.198e-6,
+                    "usdAmount": 115.17146066852528,
+                    "tokenType": "token0"
+                },
+                "pairAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy"
+            }
+        ],
+        "kLine": "",
+        "kolSnipers": [],
+        "kLineListKol": null,
+        "gettrinfo": {
+            "tokenAddress": "7wjdpcr4yscevcwk8vkt8qsfml2jjfkigdnuvts4pump",
+            "totalBuyVolume": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "totalSellVolume": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "totalBuyers": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "totalSellers": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "totalBuys": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "totalSells": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "uniqueWallets": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "pricePercentChange": {
+                "5m": 0,
+                "1h": 0,
+                "6h": 0,
+                "24h": 0
+            },
+            "usdPrice": null,
+            "totalLiquidityUsd": "0",
+            "totalFullyDilutedValuation": "0"
+        },
+        "TokenAllSmartWallet": {
+            "wallets": []
+        },
+        "TokenHolders": {
+            "cursor": "eyJhbGciOiJIUzI1NiJ9.eyJsYXN0U2VlbkJhbGFuY2UiOiIyNTk1OTkiLCJsYXN0U2VlbkhvbGRlciI6IjZlS3Z0NFZNUU1lQTl6MnZOVHRuRXNxdHlaVTg5RzVxWm9jMWFLZnhvY0tRIiwicGFnZSI6MX0.MOmKGv0w0C_7w4poN866XYxqnzs7P_jkagsjOg-AkD8",
+            "page": 1,
+            "pageSize": 7,
+            "totalSupply": "1000000000",
+            "result": [
+                {
+                    "balance": "985823648193533",
+                    "balanceFormatted": "985823648.193533",
+                    "isContract": false,
+                    "ownerAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy",
+                    "usdValue": "4877.855411261601284",
+                    "percentageRelativeToTotalSupply": 98.58
+                },
+                {
+                    "balance": "13160408422908",
+                    "balanceFormatted": "13160408.422908",
+                    "isContract": false,
+                    "ownerAddress": "E123163fBdaBVkcPNXp8vMFnMR8zT4PR1QJ9BdM1fQGk",
+                    "usdValue": "65.117700876548784",
+                    "percentageRelativeToTotalSupply": 1.32
+                },
+                {
+                    "balance": "780341799001",
+                    "balanceFormatted": "780341.799001",
+                    "isContract": false,
+                    "ownerAddress": "51KseRVxt6B99ikyJTvW49JyQi7ZcZJCp54NPcEHM4iT",
+                    "usdValue": "3.861131221456948",
+                    "percentageRelativeToTotalSupply": 0.08
+                },
+                {
+                    "balance": "235600353037",
+                    "balanceFormatted": "235600.353037",
+                    "isContract": false,
+                    "ownerAddress": "ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd",
+                    "usdValue": "1.165750546827076",
+                    "percentageRelativeToTotalSupply": 0.02
+                },
+                {
+                    "balance": "564977",
+                    "balanceFormatted": "0.564977",
+                    "isContract": false,
+                    "ownerAddress": "2T16VVxYZ3zh9hULFRWp6ogMbBAciYjQmsPTqfJAutpR",
+                    "usdValue": "0.000002795506196",
+                    "percentageRelativeToTotalSupply": 0
+                },
+                {
+                    "balance": "406945",
+                    "balanceFormatted": "0.406945",
+                    "isContract": false,
+                    "ownerAddress": "6aexgEn1WzfpApyu3Yv6Lz8jRNhT1VzZMzAU6Q5Gta4e",
+                    "usdValue": "0.00000201356386",
+                    "percentageRelativeToTotalSupply": 0
+                },
+                {
+                    "balance": "259599",
+                    "balanceFormatted": "0.259599",
+                    "isContract": false,
+                    "ownerAddress": "6eKvt4VMQMeA9z2vNTtnEsqtyZU89G5qZoc1aKfxocKQ",
+                    "usdValue": "0.000001284495852",
+                    "percentageRelativeToTotalSupply": 0
+                }
+            ]
+        },
+        "getTokenHoldersList": {
+            "1h": [],
+            "1d": [],
+            "7d": [],
+            "5m": [
+                {
+                    "balance": "985823648193533",
+                    "balanceFormatted": "985823648.193533",
+                    "isContract": false,
+                    "ownerAddress": "5YZyotrfTGVwGiW1TJ4uoB8u3SpioCCUmcmK5zKscWKy",
+                    "usdValue": "4877.855411261601284",
+                    "percentageRelativeToTotalSupply": 98.58,
+                    "avatar": null,
+                    "nickname": null
+                },
+                {
+                    "balance": "13160408422908",
+                    "balanceFormatted": "13160408.422908",
+                    "isContract": false,
+                    "ownerAddress": "E123163fBdaBVkcPNXp8vMFnMR8zT4PR1QJ9BdM1fQGk",
+                    "usdValue": "65.117700876548784",
+                    "percentageRelativeToTotalSupply": 1.32,
+                    "avatar": null,
+                    "nickname": null
+                },
+                {
+                    "balance": "780341799001",
+                    "balanceFormatted": "780341.799001",
+                    "isContract": false,
+                    "ownerAddress": "51KseRVxt6B99ikyJTvW49JyQi7ZcZJCp54NPcEHM4iT",
+                    "usdValue": "3.861131221456948",
+                    "percentageRelativeToTotalSupply": 0.08,
+                    "avatar": null,
+                    "nickname": null
+                },
+                {
+                    "balance": "235600353037",
+                    "balanceFormatted": "235600.353037",
+                    "isContract": false,
+                    "ownerAddress": "ZG98FUCjb8mJ824Gbs6RsgVmr1FhXb2oNiJHa2dwmPd",
+                    "usdValue": "1.165750546827076",
+                    "percentageRelativeToTotalSupply": 0.02,
+                    "avatar": null,
+                    "nickname": null
+                },
+                {
+                    "balance": "564977",
+                    "balanceFormatted": "0.564977",
+                    "isContract": false,
+                    "ownerAddress": "2T16VVxYZ3zh9hULFRWp6ogMbBAciYjQmsPTqfJAutpR",
+                    "usdValue": "0.000002795506196",
+                    "percentageRelativeToTotalSupply": 0,
+                    "avatar": null,
+                    "nickname": null
+                },
+                {
+                    "balance": "406945",
+                    "balanceFormatted": "0.406945",
+                    "isContract": false,
+                    "ownerAddress": "6aexgEn1WzfpApyu3Yv6Lz8jRNhT1VzZMzAU6Q5Gta4e",
+                    "usdValue": "0.00000201356386",
+                    "percentageRelativeToTotalSupply": 0,
+                    "avatar": null,
+                    "nickname": null
+                },
+                {
+                    "balance": "259599",
+                    "balanceFormatted": "0.259599",
+                    "isContract": false,
+                    "ownerAddress": "6eKvt4VMQMeA9z2vNTtnEsqtyZU89G5qZoc1aKfxocKQ",
+                    "usdValue": "0.000001284495852",
+                    "percentageRelativeToTotalSupply": 0,
+                    "avatar": null,
+                    "nickname": null
+                }
+            ]
+        },
+        "getTokenMetadata": {
+            "mint": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+            "standard": "metaplex",
+            "name": "ROKKI ",
+            "symbol": "ROKKI ",
+            "logo": null,
+            "decimals": "6",
+            "metaplex": {
+                "metadataUri": "https:\/\/ipfs.io\/ipfs\/QmdNMG8mLKGC4ZsDcxmbGUerM2iCxoxmxJPDiPrApU6MpA",
+                "masterEdition": false,
+                "isMutable": false,
+                "sellerFeeBasisPoints": 0,
+                "updateAuthority": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+                "primarySaleHappened": 0
+            },
+            "fullyDilutedValue": null,
+            "totalSupply": "1000000000000000",
+            "totalSupplyFormatted": "1000000000",
+            "links": null,
+            "description": null,
+            "isVerifiedContract": false,
+            "possibleSpam": false,
+            "0": {
+                "mint": "7wjdPcr4YSCevCwK8vKt8qSfmL2jJFKiGdNuvTS4pump",
+                "standard": "metaplex",
+                "name": "ROKKI ",
+                "symbol": "ROKKI ",
+                "logo": null,
+                "decimals": "6",
+                "metaplex": {
+                    "metadataUri": "https:\/\/ipfs.io\/ipfs\/QmdNMG8mLKGC4ZsDcxmbGUerM2iCxoxmxJPDiPrApU6MpA",
+                    "masterEdition": false,
+                    "isMutable": false,
+                    "sellerFeeBasisPoints": 0,
+                    "updateAuthority": "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM",
+                    "primarySaleHappened": 0
+                },
+                "fullyDilutedValue": null,
+                "totalSupply": "1000000000000000",
+                "totalSupplyFormatted": "1000000000",
+                "links": {
+                    "twitter": "",
+                    "website": null,
+                    "telegram": null
+                },
+                "description": "",
+                "isVerifiedContract": false,
+                "possibleSpam": false,
+                "banner": ""
+            }
+        },
+        "ai_content": ""
+    }
+}

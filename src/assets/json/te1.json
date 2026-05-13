@@ -1,0 +1,294 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "witch": {
+            "history": {
+                "cursor": null,
+                "page_size": 40,
+                "limit": "100",
+                "result": [
+                    {
+                        "hash": "0xc581538f34a6aa7969f42a3ab2ad023432641ab60e5da71ed90799676898fea8",
+                        "nonce": "4",
+                        "transaction_index": "15",
+                        "from_address_entity": null,
+                        "from_address_entity_logo": null,
+                        "from_address": "0x2f019a0ec4de68d48d0c30767db84b22ce3a3d5f",
+                        "from_address_label": null,
+                        "to_address_entity": null,
+                        "to_address_entity_logo": null,
+                        "to_address": "0x09abc535f28fa109dbc205f58784900f382dcf8a",
+                        "to_address_label": null,
+                        "value": "8302796000000000",
+                        "gas": "21000",
+                        "gas_price": "1000000000",
+                        "receipt_cumulative_gas_used": "1663442",
+                        "receipt_gas_used": "21000",
+                        "receipt_contract_address": null,
+                        "receipt_status": "1",
+                        "block_timestamp": "2025-07-16T05:48:57.000Z",
+                        "block_number": "54196095",
+                        "block_hash": "0x720239fdad54c236432cc3c910cf87b1f0f6506801165f65ef21304fc266f003",
+                        "transaction_fee": "0.000021",
+                        "method_label": null,
+                        "nft_transfers": [],
+                        "erc20_transfers": [],
+                        "native_transfers": [
+                            {
+                                "from_address_entity": null,
+                                "from_address_entity_logo": null,
+                                "from_address": "0x2f019a0ec4de68d48d0c30767db84b22ce3a3d5f",
+                                "from_address_label": null,
+                                "to_address_entity": null,
+                                "to_address_entity_logo": null,
+                                "to_address": "0x09abc535f28fa109dbc205f58784900f382dcf8a",
+                                "to_address_label": null,
+                                "value": "8302796000000000",
+                                "value_formatted": "0.008302796",
+                                "direction": "receive",
+                                "internal_transaction": false,
+                                "token_symbol": "BNB",
+                                "token_logo": "https://cdn.moralis.io/bsc/0x.png"
+                            }
+                        ],
+                        "summary": "Received 0.008302 BNB from 0x2f...3d5f",
+                        "possible_spam": false,
+                        "category": "receive"
+                    }
+                ],
+                "page": 0
+            },
+            "lastHistory": {
+                "cursor": null,
+                "page_size": 40,
+                "limit": "100",
+                "result": [
+                    {
+                        "hash": "0x4d2938dbc2c2cf092cc0b88e97fa8871a0a22d601c252eac8f0c5d3ba3cd59e9",
+                        "nonce": "32",
+                        "transaction_index": "70",
+                        "from_address_entity": null,
+                        "from_address_entity_logo": null,
+                        "from_address": "0x09abc535f28fa109dbc205f58784900f382dcf8a",
+                        "from_address_label": null,
+                        "to_address_entity": null,
+                        "to_address_entity_logo": null,
+                        "to_address": "0xd6c6aa6dd1cea8ee43fd392e2670c84b61daf982",
+                        "to_address_label": null,
+                        "value": "0",
+                        "gas": "22957",
+                        "gas_price": "100000000",
+                        "receipt_cumulative_gas_used": "12864136",
+                        "receipt_gas_used": "22621",
+                        "receipt_contract_address": null,
+                        "receipt_status": "1",
+                        "block_timestamp": "2025-07-19T08:44:17.000Z",
+                        "block_number": "54555676",
+                        "block_hash": "0x79fd3c4e361ed2b2b91ca8f5700e07887211d4e44202c6e0326d06b6129ad8d8",
+                        "transaction_fee": "0.0000022621",
+                        "method_label": "sign",
+                        "nft_transfers": [],
+                        "erc20_transfers": [],
+                        "native_transfers": [],
+                        "summary": "Signed a transaction",
+                        "possible_spam": false,
+                        "category": "contract interaction"
+                    }
+                ],
+                "page": 0
+            },
+            "tokens": {
+                "cursor": null,
+                "page": 0,
+                "page_size": 100,
+                "block_number": 58128085,
+                "result": [
+                    {
+                        "token_address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                        "symbol": "BNB",
+                        "name": "Binance Chain Native Token",
+                        "logo": "https://cdn.moralis.io/bsc/0x.png",
+                        "thumbnail": "https://cdn.moralis.io/bsc/0x_thumb.png",
+                        "decimals": 18,
+                        "balance": "8938810801054857",
+                        "possible_spam": false,
+                        "verified_contract": true,
+                        "total_supply": null,
+                        "total_supply_formatted": null,
+                        "percentage_relative_to_total_supply": null,
+                        "security_score": 99,
+                        "balance_formatted": "0.008938810801054857",
+                        "usd_price": 840.9097755742341,
+                        "usd_price_24hr_percent_change": 0.9787503876271962,
+                        "usd_price_24hr_usd_change": 8.140119878910014,
+                        "usd_value": 7.516733384615579,
+                        "usd_value_24hr_usd_change": 0.07276299149548218,
+                        "native_token": true,
+                        "portfolio_percentage": 100
+                    }
+                ]
+            },
+            "RatingCriteria": {
+                "sevenDayStatus": 0,
+                "nativeTokenStatus": 2,
+                "otherTokenStatus": 1,
+                "specialTokenAddresses": [],
+                "totalUsdValue": 7.52,
+                "firstTransferFrom": "0x2f019a0ec4de68d48d0c30767db84b22ce3a3d5f",
+                "fromAddressFanOut": 1,
+                "fromAddressIsSuspicious": 0,
+                "isLowTxAndAllContractCalls": 0,
+                "isSingleContractAndMethod": 0,
+                "lastTransferToAddress": "0x5839477698c1b29edc9f306cb1425b6550e0502f",
+                "toAddressFanIn": 2,
+                "toAddressIsAggregator": 0
+            },
+            "riskScore": 15,
+            "riskScorePercentage": 21,
+            "sybil_score": -21,
+            "maxScore": 70
+        },
+        "assetAndcontract": {
+            "asset": {
+                "totalVale": 7.52430352885887,
+                "coin": {
+                    "stable": {
+                        "value": 0,
+                        "num": 0
+                    },
+                    "value": {
+                        "value": 7.52430352885887,
+                        "num": 1
+                    },
+                    "lp": {
+                        "value": 0,
+                        "num": 0
+                    },
+                    "other": {
+                        "value": 0,
+                        "num": 0
+                    },
+                    "nft": {
+                        "value": 0,
+                        "num": 0
+                    },
+                    "defi": {
+                        "value": 0,
+                        "num": 0
+                    }
+                },
+                "sort": {
+                    "stable": [],
+                    "value": [
+                        {
+                            "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                            "name": "BNB",
+                            "icon": "https://cdn.moralis.io/bsc/0x_thumb.png",
+                            "type": "value",
+                            "price": 841.7566605136041,
+                            "num": 0.008938810801054856,
+                            "value": 7.52430352885887
+                        }
+                    ],
+                    "lp": [],
+                    "other": [],
+                    "nft": [],
+                    "defi": []
+                },
+                "asset": [
+                    {
+                        "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                        "name": "BNB",
+                        "icon": "https://cdn.moralis.io/bsc/0x_thumb.png",
+                        "type": "value",
+                        "price": 841.7566605136041,
+                        "num": 0.008938810801054856,
+                        "value": 7.52430352885887
+                    }
+                ],
+                "score": 113.79248899128098
+            },
+            "contract": {
+                "resideContract": {
+                    "wellKonw": 0,
+                    "believable": 38,
+                    "other": 0
+                },
+                "contractRecord": {
+                    "contractNum": 7,
+                    "recordNum": 38,
+                    "contractList": [
+                        {
+                            "num": 17,
+                            "label": null,
+                            "hash": "0x4d2938dbc2c2cf092cc0b88e97fa8871a0a22d601c252eac8f0c5d3ba3cd59e9",
+                            "time": "2025-07-19T08:44:17.000Z",
+                            "spam": false,
+                            "address": "0xd6c6aa6dd1cea8ee43fd392e2670c84b61daf982",
+                            "init": true
+                        }
+                    ]
+                },
+                "risk": {
+                    "cross": 0,
+                    "crossContractNum": 0,
+                    "unknown": 38,
+                    "unknownContractNum": 7,
+                    "spam": 0,
+                    "spamContractNum": 0,
+                    "wash": 0,
+                    "washContractNum": 0,
+                    "bot": 0,
+                    "blacklist": 0,
+                    "blacklistContractNum": 0,
+                    "borrow": 0,
+                    "borrowContractNum": 0,
+                    "unusualProtocolNum": 0
+                },
+                "score": {
+                    "risk": 300,
+                    "behavior": 205.56426332288402
+                }
+            }
+        },
+        "report": {
+            "latestReportInfo": {
+                "id": 4050,
+                "chain": "bsc",
+                "wallet_address": "0x09abc535f28fa109dbc205f58784900f382dcf8a",
+                "time": 1755594225,
+                "time_date": 202508190903,
+                "credit_score_total": "484.56",
+                "asset_score": null,
+                "behavior_score": "205.56",
+                "risk_score": "300.00",
+                "sybil_score": "-21.00",
+                "total_asset_value": null,
+                "contract_interactions_count": 38,
+                "distinct_contracts_count": 7,
+                "sybil_suspicion_level": "21.00",
+                "risk_alerts_count": " "
+            },
+            "allReportsInfo": [
+                {
+                    "id": 4050,
+                    "chain": "bsc",
+                    "wallet_address": "0x09abc535f28fa109dbc205f58784900f382dcf8a",
+                    "time": 1755594225,
+                    "time_date": 202508190903,
+                    "credit_score_total": "484.56",
+                    "asset_score": null,
+                    "behavior_score": "205.56",
+                    "risk_score": "300.00",
+                    "sybil_score": "-21.00",
+                    "total_asset_value": null,
+                    "contract_interactions_count": 38,
+                    "distinct_contracts_count": 7,
+                    "sybil_suspicion_level": "21.00",
+                    "risk_alerts_count": " "
+                }
+            ]
+        }
+    }
+}
